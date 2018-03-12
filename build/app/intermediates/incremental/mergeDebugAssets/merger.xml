@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config=":location"><source path="/Users/ddas/Projects/foodie/build/location/intermediates/bundles/debug/assets"/></dataSet><dataSet config="main"><source path="/Users/ddas/Projects/foodie/android/app/src/main/assets"/><source path="/Users/ddas/Projects/foodie/build/app/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/ddas/Projects/foodie/android/app/src/debug/assets"/></dataSet></merger>
