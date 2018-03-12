@@ -4,9 +4,9 @@ Flutter code for the Foodie app with location service added.
 
 The "[Lets code Live in Flutter](http://bit.ly/2p5qFPl)" demonstration on Youtube creates a simple (and damn fine looking) find a restaurant application in 28 minutes. As amazing as that is there's one step missing from the demo - adding the location service to find restaurants close to you. 
 
-I've added the code to find your current location before locating all the restaurants within 5000 meters of your device. It's functional but I wouldn't say it's perfect code ...
+I've added the code to find your current location before locating all the restaurants within 5000 meters of your device. It's functional but I wouldn't say it's perfect code ... 
 
-#set up 
+# set up 
 
 You need to get a [Google Places API](https://console.developers.google.com/apis/) key. 
 
@@ -94,6 +94,6 @@ var stream = await getPlaces(location["latitude"], location["longitude"]);
   
   
 
-#final comment
+# final comment
 
 Thanks to the Flutter team - keep up the great work ! 
